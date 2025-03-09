@@ -76,6 +76,7 @@ agreement
 agricultural
 ahead
 aide
+air
 aircraft
 airline
 airport
@@ -559,7 +560,6 @@ convert
 conviction
 convince
 cook
-chat
 cookie
 cooking
 cool
@@ -1443,6 +1443,7 @@ literary
 literature
 little
 live
+livechat
 living
 load
 loan
